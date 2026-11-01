@@ -1,0 +1,14 @@
+// My first JavaScript program
+
+let name = "Kishore";
+let age = 22;
+
+console.log("Hello, World!");
+console.log("My name is " + name);
+console.log("My age is " + age);
+
+// Simple calculation
+let a = 10;
+let b = 20;
+
+console.log("Total:", a + b);
